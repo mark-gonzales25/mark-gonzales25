@@ -8,6 +8,7 @@
 
 - 🏅 **Certifications:**  
   - [<SQL and Relational Databases 101 (Academic Certification)>](<https://courses.cognitiveclass.ai/certificates/01f188693cb14ae88e51b180e59672e1>)
+  - [OCI AI Foundations Associate (2025)]()
 - 💻 Skillsets:
   - Programming: Java, Python, C++, C#
   - Web Development: HTML, CSS, Node.js, MySQL  
